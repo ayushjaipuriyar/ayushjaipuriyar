@@ -22,7 +22,7 @@
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/code.gif?raw=true" width="450" height="320" />
   
 **Talking about Personal Stuffs:**
 
