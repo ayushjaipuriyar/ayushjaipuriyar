@@ -89,6 +89,9 @@ body {
   background: #486fe9;
   z-index: 1;
   color: #fff;
+  align-items: center;
+  align-content: center;
+  text-align: center;
 }
 .slide.slide-2 {
   /* width: calc(calc(300px - 30px) - 15px);*/
@@ -111,6 +114,10 @@ body {
 .slide.slide-3 .bank-name img {
   height: 32px;
   width: 32px;
+}
+.slide.slide-3 .personal-info img {
+  align-items: center;
+  margin-left: 10px;
 }
 
 /* ***** Specific Styles - End ***** */
@@ -156,7 +163,7 @@ body {
   background-color: #1b2f69;
 }
 .repolist ul li a:hover {
-  background-color: #27408f;
+  background-color: #396895;
 }
 .repolist ul li a:active {
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
