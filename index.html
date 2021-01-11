@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ayush Jaipuriyar | Portfolio</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,400&amp;display=swap"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="card-stack">
+        <div class="swiper-container">
+          <div class="slide slide-1" id="slide-2" onclick="hide()">
+            <div class="bank-name">
+              <p>Ayush Jaipuriyar <span>| Introduction</span></p>
+              <img
+                src="https://github.com/ayushjaipuriyar/Portfolio/blob/master/maxresdefault-1.jpg?raw=true"
+                height="70px"
+                width="70px"
+              />
+            </div>
+            <div class="personal-info"></div>
+          </div>
+          <div class="slide slide-2" id="slide" onclick="show()">
+            <div class="bank-name">
+              <p>Ayush Jaipuriyar | <span>Github</span></p>
+              <img
+                src="https://github.com/ayushjaipuriyar/Portfolio/blob/master/GitHub-Mark-Light-32px.png?raw=true"
+              />
+            </div>
+            <p>Repositories</p>
+            <div id="ghapidata" class="clearfix"></div>
+          </div>
+          <div class="slide slide-3" onclick="hide()">
+            <div class="bank-name">
+              <p>Contact me</p>
+              <img
+                src="https://github.com/ayushjaipuriyar/Portfolio/blob/master/LI-In-Bug.png?raw=true"
+              />
+            </div>
+            <div class="personal-info"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="./script.js"></script>
+    <script src="./ghapi.js"></script>
+    <script>
+      //document.getElementById("slide").addEventListner("click", hiding);
+      function show() {
+        document.getElementById("ghapidata").style.display = "block";
+        document.getElementById("slide").style.height = "27rem";
+        document.getElementById("slide").style.zIndex = "3";
+        document.getElementById("slide").style.width = "270px";
+      }
+      function hide() {
+        document.getElementById("ghapidata").style.display = "none";
+        document.getElementById("slide").style.height = "200px";
+      }
+    </script>
+  </body>
+</html>

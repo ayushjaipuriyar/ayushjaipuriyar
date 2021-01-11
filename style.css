@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: #fff;
+  overflow: hidden;
+  display: flexbox;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide {
+  width: calc(300px - 30px);
+  height: 200px;
+  border-radius: 10px;
+}
+
+/* ***** Global Styles - End ***** */
+/* ***** Specific Styles - Start ***** */
+.container {
+  height: 100vh;
+}
+
+.card-stack {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 550px;
+  background-color: #dae4ee;
+  border-radius: 20px;
+}
+
+.swiper-container {
+  display: flex;
+  width: calc(300px - 30px);
+  height: 200px;
+  justify-content: center;
+  align-self: flex-end;
+  margin-bottom: 15px;
+}
+
+.slide {
+  position: absolute;
+  font-size: 18px;
+  padding: 20px;
+  background: #fff;
+  cursor: pointer;
+  outline: none;
+}
+.slide .bank-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 12px;
+}
+.slide .bank-name span {
+  color: grey;
+  font-size: 10px;
+}
+.slide .bank-name img {
+  margin: -9px -1px 0 0;
+}
+.slide img {
+  margin: 10px 0;
+}
+.slide .card-number {
+  font-size: 15px;
+}
+.slide .personal-info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 12px;
+}
+.slide.slide-1 .personal-info {
+  /* margin-top: 270px; */
+}
+.slide.slide-3 {
+  width: calc(calc(300px - 30px) - 30px);
+  margin-top: -30px;
+  background: #486fe9;
+  z-index: 1;
+  color: #fff;
+}
+.slide.slide-2 {
+  /* width: calc(calc(300px - 30px) - 15px);*/
+  width: calc(300px - 30px);
+  background-color: #111;
+  color: #fff;
+  z-index: 3;
+}
+.slide.slide-1 {
+  width: calc(300px - 30px);
+  margin-top: -320px;
+  z-index: 2;
+  color: #111;
+  background-color: #fff;
+}
+.slide.slide-1 img {
+  border-radius: 100%;
+  border: 3px solid #dae4ee;
+}
+.slide.slide-3 .bank-name img {
+  height: 32px;
+  width: 32px;
+}
+
+/* ***** Specific Styles - End ***** */
+/* ***** Media Queries - Start ***** */
+@media screen and (max-width: 650px) {
+  .card-1,
+  .card-2,
+  .card-3,
+  .card-4,
+  .card-5,
+  .card-6 {
+    display: none;
+  }
+}
+/* ***** Media Queries - End ***** */
+
+.clearfix {
+  display: block;
+  color: #fff;
+}
+#ghapidata {
+  display: none;
+  padding: 25px 0 0 0;
+}
+
+.repolist {
+  display: block;
+  clear: both;
+}
+.repolist ul {
+  font-size: 11px;
+  list-style: none;
+}
+.repolist ul li a {
+  padding: 6px 9px;
+  margin: 3px;
+  float: left;
+  text-decoration: none;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #3673af;
+}
+.repolist ul li a:hover {
+  background-color: #396895;
+}
+.repolist ul li a:active {
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.25);
+}
