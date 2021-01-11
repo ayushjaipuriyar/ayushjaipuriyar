@@ -5,31 +5,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayushjaipuriyar/)
 [![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ayushjaipuriyar)
 
-[➡️ Check out my website](https://www.mokkapps.de)
-
-Latest Blog Posts
------------------
-
--   [How to Deploy a Heroku Backend to a Netlify
-    Subdomain](https://www.mokkapps.de/blog/how-to-deploy-a-heroku-backend-to-a-netlify-subdomain/)
--   [My Top Angular Interview
-    Questions](https://www.mokkapps.de/blog/my-top-angular-interview-questions/)
--   [How I Replaced Google Analytics With a Private, Open-Source &
-    Self-Hosted
-    Alternative](https://www.mokkapps.de/blog/how-i-replaced-google-analytics-with-a-private-open-source-and-self-hosted-alternative/)
--   [Monitoring Spring Boot Application With Micrometer, Prometheus And
-    Grafana Using Custom
-    Metrics](https://www.mokkapps.de/blog/monitoring-spring-boot-application-with-micrometer-prometheus-and-grafana-using-custom-metrics/)
--   [How To Automatically Generate A Helpful Changelog From Your Git
-    Commit
-    Messages](https://www.mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/)
-
-[➡️ More blog posts](https://www.mokkapps.de/blog)
-
-Last Tweet
-----------
-
-[![](https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/tweet.png)](https://www.twitter.com/ayushjaipuriyar)
+[➡️ Check out my website](https://ayushjaipuriyar.github.io/ayushjaipuriyar)
 
 GitHub Stats
 ------------
