@@ -10,7 +10,10 @@
   <img align="left" alt="Ayush's Spotify" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/spotify.svg?raw=true" />
 </a>
 <a href="https://www.reddit.com/user/ayushjaipuriyar/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/reddit.svg?raw=true" />
+  <img align="left" alt="Ayush's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/reddit.svg?raw=true" />
+</a>
+<a href="https://www.instagram.com/ayushjaipuriyar/">
+  <img align="left" alt="Ayush's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/instagram.svg?raw=true" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
@@ -19,7 +22,7 @@
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar), a passionate leaner trying to learn everythin 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assetscode.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
