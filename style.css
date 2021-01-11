@@ -111,9 +111,8 @@ body {
   border-radius: 100%;
   border: 3px solid #dae4ee;
 }
-.slide.slide-3 .bank-name img {
-  height: 32px;
-  width: 32px;
+.slide.slide-3 .personal-info a {
+  text-decoration: none;
 }
 .slide.slide-3 .personal-info img {
   align-items: center;
