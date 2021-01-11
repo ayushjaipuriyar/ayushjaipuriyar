@@ -17,9 +17,9 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar), a passionate leaner trying to learn everythin 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assetscode.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
