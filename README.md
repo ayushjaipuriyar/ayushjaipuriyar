@@ -41,7 +41,9 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <br><br><br>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
