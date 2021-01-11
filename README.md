@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -72,6 +73,21 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+=======
+# Hi👋
+----------
+
+My name is Ayush , 
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ayushjaipuriyar)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-jaipuriyar-3a8099158/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayushjaipuriyar/)
+[![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ayushjaipuriyar)
+>>>>>>> c7790f14870ef97c1a7a5f968b12a528f81d5e0d
 
 
 
+<<<<<<< HEAD
+=======
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=tokyonight)
+>>>>>>> c7790f14870ef97c1a7a5f968b12a528f81d5e0d
