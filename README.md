@@ -65,6 +65,17 @@ Python       18 mins         ██░░░░░░░░░░░░░░░
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" />
+  
+  
+  
+  $.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@f3655f2d-4319-48ea-a4a5-443f28007520/35a85f4e-5670-414a-a5b9-1bc77c2266fc.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
 
 
 
