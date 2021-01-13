@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀 from India.
+Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
   
 **Talking about Personal Stuffs:**
 
@@ -29,14 +29,28 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 - 💬 Ask me about anything, I am happy to help;
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/atom.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/github.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/google.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/chrome.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/firefox.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/archlinux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/raspberry-pi.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/hacktoberfest.png"></code>
 
-<br><br><br>
+<br>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
