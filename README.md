@@ -17,7 +17,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
---------------------------------
+-------
 <br>
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
@@ -49,19 +49,11 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></code>
--------------------------------------------
-<br>
+-------
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-C++          1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   32.40 % 
-CSS          1 hr 5 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
-HTML         58 mins         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-JavaScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Python       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-```
 <!--END_SECTION:waka-->
---------------------------------------
+-------
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" /></p>
