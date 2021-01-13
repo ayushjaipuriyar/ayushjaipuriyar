@@ -17,8 +17,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
-
-<br />
+--------------------------------
+<br>
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
   
@@ -49,9 +49,9 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></code>
-
+-------------------------------------------
 <br>
-📊 **This Week I Spent My Time On:**<br>
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 C++          1 hr 20 mins    ████████░░░░░░░░░░░░░░░░░   32.40 % 
@@ -61,22 +61,10 @@ JavaScript   19 mins         ██░░░░░░░░░░░░░░░
 Python       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 ```
 <!--END_SECTION:waka-->
-
+--------------------------------------
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" />
-  
-  
-  
-  $.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@f3655f2d-4319-48ea-a4a5-443f28007520/35a85f4e-5670-414a-a5b9-1bc77c2266fc.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" /></p>
 
 
 
