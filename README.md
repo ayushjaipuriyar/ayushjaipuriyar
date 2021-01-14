@@ -17,8 +17,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
--------
-<br>
+
+---
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
   
@@ -27,8 +27,8 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python,Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
-**Languages and Tools:**  
-<p>
+
+### **Languages and Tools:** 
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
@@ -48,14 +48,13 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></p>
-<br><br>
--------
-<p>📈 My GitHub Stats</p>
+<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
+---
+<br>
+<img align="right"src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham&hide_rank=true" alt="ayushjaipuriyar" />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" /></p>
+<p align="left">
 
-📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 C++          1 hr 22 mins    ████████▒░░░░░░░░░░░░░░░░   33.00 % 
@@ -66,5 +65,4 @@ Python       18 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
-
+</p>
