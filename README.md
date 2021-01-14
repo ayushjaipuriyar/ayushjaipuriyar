@@ -67,14 +67,13 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 ---
 
 
+### 📈 My Languages and GitHub Stats
 
 <p>
 
 
-<p align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham&hide_rank=true">
 
-![stats](https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham&hide_rank=true)
-</p>
 
 <p align="left">
 
