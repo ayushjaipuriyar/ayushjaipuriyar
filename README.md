@@ -46,6 +46,7 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Arch](https://img.shields.io/badge/-Linux-1793d0?style=flat&logo=linux)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-fff?style=flat&logo=kotlin)
 ![Angular](https://img.shields.io/badge/-Angular-3f51b5?style=flat&logo=angular)
 ![Flutter](https://img.shields.io/badge/-Flutter-1188ff?style=flat&logo=flutter)
 ![Google](https://img.shields.io/badge/-Google-fff?style=flat&logo=google)
