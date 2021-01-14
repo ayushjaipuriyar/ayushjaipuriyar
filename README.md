@@ -49,7 +49,7 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
-<br>
+
 -------
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
