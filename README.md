@@ -29,26 +29,26 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 - 💬 Ask me about anything, I am happy to help;
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/chrome/chrome.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firefox/firefox.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-cose/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></code>
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/chrome/chrome.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firefox/firefox.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-cose/visual-studio-code.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
 -------
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
