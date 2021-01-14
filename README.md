@@ -28,7 +28,7 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 - 🌱 I’m currently learning Python,Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
 **Languages and Tools:**  
-
+<p>
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
@@ -48,7 +48,7 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-cose/visual-studio-code.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></p>
 
 -------
 📊 **This Week I Spent My Time On:**
