@@ -28,7 +28,8 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 - 🌱 I’m currently learning Python,Kotlin; 
 - 💬 Ask me about anything, I am happy to help;
 
-### **Languages and Tools:** 
+<p>
+### **Languages and Tools:** <br>
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
@@ -49,8 +50,14 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
 <img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
----
+</p>
 <br>
+
+---
+
+<p>
+  
+  
 <img align="right"src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham&hide_rank=true" alt="ayushjaipuriyar" />
 
 <p align="left">
@@ -65,4 +72,5 @@ Python       18 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+</p>
 </p>
