@@ -35,27 +35,21 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 
 <p align="left">
   
-  
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/chrome/chrome.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firefox/firefox.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
-<img align="center" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png">
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&logo=digitalocean)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Arch](https://img.shields.io/badge/-Linux-1793d0?style=flat&logo=linux)
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
+![Angular](https://img.shields.io/badge/-Angular-3f51b5?style=flat&logo=angular)
+![Flutter](https://img.shields.io/badge/-Flutter-1188ff?style=flat&logo=flutter)
+![Google](https://img.shields.io/badge/-Google-fff?style=flat&logo=google)
+
 
 
 </p>
