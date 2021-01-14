@@ -33,8 +33,6 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
   
 ### **Languages and Tools:** 
 
-<br>
-
 <p align="left">
   
   
@@ -65,12 +63,21 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 
 </p>
 
+
+---
+
+
 <p>
-  
-  
+
+
+
 <img align="right"src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham&hide_rank=true">
+  
+
 
 <p align="left">
+
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -82,5 +89,11 @@ Python       18 mins         ██░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+
+
 </p>
+
+
+
 </p>
