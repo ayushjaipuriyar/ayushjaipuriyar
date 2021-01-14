@@ -45,12 +45,16 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/chrome/chrome.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/firefox/firefox.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-cose/visual-studio-code.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/raspberry-pi/raspberry-pi.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hacktoberfest/hacktoberfest.png"></p>
-
+<br><br>
 -------
+<p>📈 My GitHub Stats</p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" /></p>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -61,10 +65,6 @@ JavaScript   19 mins         ██░░░░░░░░░░░░░░░
 Python       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 <!--END_SECTION:waka-->
--------
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushjaipuriyar&show_icons=true&theme=gotham" alt="ayushjaipuriyar" /></p>
 
 
 
