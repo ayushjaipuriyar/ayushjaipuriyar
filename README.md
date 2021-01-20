@@ -76,11 +76,7 @@ Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) ,
 
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 22 mins    ██████████████░░░░░░░░░░░   55.34 % 
-HTML         26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 % 
-CSS          23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Python       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+C++   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
