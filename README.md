@@ -6,14 +6,8 @@
 <a href="https://www.linkedin.com/in/ayush-jaipuriyar-3a8099158/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/linkedin.svg?raw=true" />
 </a>
-<a href=https://open.spotify.com/user/nnxu3nl32dutxsr27xx8k780k">
-  <img align="left" alt="Ayush's Spotify" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/spotify.svg?raw=true" />
-</a>
 <a href="https://www.reddit.com/user/ayush_jaipuriyar/">
   <img align="left" alt="Ayush's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/reddit.svg?raw=true" />
-</a>
-<a href="https://www.instagram.com/ayushjaipuriyar/">
-  <img align="left" alt="Ayush's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/instagram.svg?raw=true" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
