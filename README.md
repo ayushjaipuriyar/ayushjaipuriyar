@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/ayushjaipuriyar/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/linkedin.svg?raw=true" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
 
 ---
