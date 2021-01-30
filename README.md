@@ -1,15 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<!--
 <a href="https://twitter.com/ayushjaipuriyar">
   <img align="left" alt="Ayush Jaipuriyar | Twitter" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/twitter.svg?raw=true" />
-</a>
-<a href="https://www.linkedin.com/in/ayush-jaipuriyar-3a8099158/">
-  <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/linkedin.svg?raw=true" />
 </a>
 <a href="https://www.reddit.com/user/ayush_jaipuriyar/">
   <img align="left" alt="Ayush's Reddit" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/reddit.svg?raw=true" />
 </a>
+-->
 
+<a href="https://www.linkedin.com/in/ayushjaipuriyar/">
+  <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://github.com/ayushjaipuriyar/ayushjaipuriyar/blob/master/assets/linkedin.svg?raw=true" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushjaipuriyar.ayushjaipuriyar)
 
 ---
