@@ -18,12 +18,6 @@
 
 Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
   
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python,Kotlin; 
-- 💬 Ask me about anything, I am happy to help;
-
 <p>
   
   
