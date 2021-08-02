@@ -16,7 +16,7 @@
 
 ---
 
-Hi, I'm [Ayush Jaipuriyar!](https://ayushjaipuriyar.github.io/ayushjaipuriyar) , a passionate leaner trying to learn everything 🚀.
+Hi, I'm [Ayush Jaipuriyar](https://ayushjaipuriyar.github.io/ayushjaipuriyar) !, a passionate leaner trying to learn everything 🚀.
   
 <p>
   
